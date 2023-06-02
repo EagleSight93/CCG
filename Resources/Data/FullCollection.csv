@@ -1,0 +1,19 @@
+ID_CARD;IMG_NAME;NAME;TYPE;SUBTYPE;DESCRIPTION;COST;POWER;HEALTH
+A_L01;A_Leader_1;Leader Alpha;Leader;LandCarrier;Mobile command center;0;3;25
+A_I01;A_Recon;Recon Team;Unit;Light Infantry;Always watching;1;1;1
+A_I02;A_31st_Squad;31st Regiment Squad;Unit;Light Infantry;Locked and load;2;2;3
+A_I03;A_Armored_Core;Armored Core Unit;Unit;Medium Infantry;ON DUTY!;3;2;6
+A_I04;A_Sniper;Sniper Unit;Unit;Light Infantry;Never misses twice;3;4;2
+A_I05;A_Assault_Team;Assault Team;Unit;Heavy Infantry;The biggest gun in since 2360 ;4;4;5
+A_V01;A_Scout_Drone;Scout Drone;Unit;light Vehicle;and..., we lost it again;1;0;2
+A_V02;A_Assault_Truck;Assault Truck;Unit;light Vehicle;AKA Big Rigs;3;3;3
+A_V03;A_Assault_Gear;Assault Gear;Unit;light Vehicle;Float like a butterfly, sting like a bee;3;4;1
+A_V04;A_APC;Anaconda APC;Unit;Medium Vehicle;GET OUT!;3;1;4
+A_V05;A_Armored_Gear;Armored Gear;Unit;Medium Vehicle;Big is better, right?;4;4;4
+A_V06;A_Spider;Spider Tank;Unit;Medium Vehicle;Perfect for all terrains, weak to fire;4;3;4
+A_V07;A_Light_Tank;Light Tank;Unit;Medium Vehicle;Low caliber,big boom ;5;3;6
+A_V08;A_Tank;Regiment Tank;Unit;Medium Vehicle;Basically a mobile fortress ;6;5;8
+B_L01;B_Leader_1;Leader Beta;Leader;LandCarrier;Mobile command center;0;3;25
+B_I01;B_Leader_1;Partisan;Unit;Light Infantry;Well... , since you put it that way, I'm in;1;1;1
+B_I02;B_Leader_1;Inquisitorial Squad;Unit;Light Infantry;Never expected us, right?;2;3;1
+B_I03;B_Leader_1;Purifiers;Unit;SpecOps;Need a light?;3;5;2
